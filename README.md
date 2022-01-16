@@ -4,7 +4,7 @@ The repository contains a research project on employees of the corporation from 
 In the data folder are saved 6 CSV files.
 
 The EmployeeSQL folder contains the PNG image of the tables.
-Schema files includes the instructions for creating 6 tables and specifies data types, primary keys, foreign keys, and other constraints.
+Schema file includes the instructions for creating 6 tables and specifies data types, primary keys, foreign keys, and other constraints.
 
 Finally the employees_query file contains all the query run on the database allowing to complete the following:
 <ul>
