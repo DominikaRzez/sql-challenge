@@ -5,6 +5,7 @@ In the data folder are saved 6 CSV files.
 
 The EmployeeSQL folder contains the PNG image of the tables.
 Schema file includes the instructions for creating 6 tables and specifies data types, primary keys, foreign keys, and other constraints.
+<img src="https://github.com/DominikaRzez/sql-challenge/blob/main/EmployeeSQL/ERD.png?raw=true">
 
 Finally the employees_query file contains all the query run on the database allowing to complete the following:
 <ul>
